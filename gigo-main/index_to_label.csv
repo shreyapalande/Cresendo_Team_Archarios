@@ -1,0 +1,14 @@
+Index,Label,FoodWaste,Recycling,Trash
+0,Aluminum Can,No,Yes,No
+1,Battery,No-Hazardous Disposal,No-Hazardous Disposal,No-Hazardous Disposal
+2,Biological/Food Waste,Yes,No,If not food
+3,Cardboard,No,If clean, If dirty
+4,Clothes,No-Donate,No-Donate,No-Donate
+5,Glass,No,Yes,No
+6,HDPE,No,Yes,No
+7,Metal,No,Maybe,No
+8,Paper,No,Yes,If dirty
+9,PET,No,Yes,No
+10,Plastic,No,If Clean,If Dirty
+11,Shoes,No-Donate,No-Donate,No-Donate
+12,Trash,No,No,Yes
